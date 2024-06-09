@@ -3,7 +3,7 @@
 <p>This is my first project on ESP32, it generates lots of wifi hotspots with funny ssids.</p>
 
  <img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/photo.jpg" width="350px" />
-<h2>Proof of Concept</h2>
+<h3>Proof of Concept</h3>
 <img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc2.png" width="400px" />
 <img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc1.png" width="400px" />
 </div>
