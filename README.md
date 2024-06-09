@@ -4,6 +4,6 @@
 
  <img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/photo.jpg" width="350px" />
 <p>PoC</p>
-<img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc2.png" width="200px" />
-<img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc1.png" width="200px" />
+<img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc2.png" width="400px" />
+<img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/poc1.png" width="400px" />
 </div>
