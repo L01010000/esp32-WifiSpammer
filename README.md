@@ -10,4 +10,7 @@
 <p>You need an esp32, my code and the Arduino software. Get the necessary board modules and simply flash my code into the esp32.</p>
 <ul>https://www.arduino.cc/</ul>
 
+**⚠️ IMPORTANT ⚠️**
+
+<p><i>This project is created for educational and ethical purposes only. Any actions and activities performed using this program should comply with applicable laws and ethical standards. The developers of this program do not condone any illegal or unethical use.</i></p>
 </div>
