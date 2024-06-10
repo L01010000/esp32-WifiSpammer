@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Wifi Spammer</h1>
-<p align="left">This is my first project on ESP32. It generates lots of wifi hotspots with funny ssids. The code is in Arduino. <br> <b>I has lots of fun creating this and I hope you will love it too! Enjoy!</b></p>
+<p align="left">This is my first project on ESP32. It generates lots of wifi hotspots with funny ssids. The code is in Arduino. <br> <b>I had lots of fun creating this and I hope you will love it too! Enjoy!</b></p>
  <img src="https://github.com/L01010000/esp32-WifiSpammer/blob/main/photo.jpg" width="350px" />
 
 
